@@ -1,5 +1,5 @@
 ## Index of source code examples:
 
-\Adjustments
-\AnnotationWithMacros
-\SimpleText
+\add annotation watermarks with macros
+\add watermark to image
+\set adjustments for watermark on image
