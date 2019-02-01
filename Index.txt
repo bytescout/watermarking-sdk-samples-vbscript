@@ -1,5 +1,5 @@
 ## Index of source code examples:
 
-\add annotation watermarks with macros
-\add watermark to image
-\set adjustments for watermark on image
+\Add Annotation Watermarks with Macros
+\Add Watermark to Image
+\Set Adjustments for Watermark on Image
